@@ -6,3 +6,4 @@
 
 - Child to Parent Call tour -> tours -> app.js
 - readMore readLess Button
+- Readme file options
